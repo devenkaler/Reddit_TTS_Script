@@ -13,7 +13,7 @@ pydub
 
 
 moviepy
-```pip install moviepy```
+```pip install moviepy=1.03```
 
 
 espeak
