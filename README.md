@@ -30,3 +30,5 @@ Produces file data/post.json with some relavent post data
 Produces file data/tts.mp3 with text to speech from the post
 
 requires both parameters, subreddit must be real
+
+Must create .env file with: SECERET KEY, PUBLIC_KEY, username, password by creating a new reddit application through https://business.reddithelp.com/s/article/Create-a-Reddit-Application
